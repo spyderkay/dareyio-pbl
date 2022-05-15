@@ -7,3 +7,17 @@
 `sudo systemctl status apache2`
 
 [apache status](./images/Apache-Status.PNG)
+
+`sudo apt install mysql-server`
+
+`sudo mysql`
+
+![mysql-status](./images/mysql-status.PNG)
+
+
+
+
+
+
+
+
